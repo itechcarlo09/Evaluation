@@ -539,7 +539,7 @@
         animate: true,
         displayOnly: false,
         rtl: false,
-        showCaption: true,
+        showCaption: false,
         starCaptionClasses: {
             0.5: 'label label-danger badge-danger',
             1: 'label label-danger badge-danger',
